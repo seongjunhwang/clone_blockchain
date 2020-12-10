@@ -1,0 +1,16 @@
+{
+  "name": "clone_blockchain",
+  "version": "1.0.0",
+  "description": "clone blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/seongjunhwang/clone_blockchain.git",
+  "author": "seongjunhwang <samkukzi3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "npx tsc"
+  }
+}
